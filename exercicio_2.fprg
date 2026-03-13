@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="exercicio_2"/>
+        <attribute name="authors" value="1DEVSESI46A"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-13 08:32:30 "/>
+        <attribute name="created" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMzE5NjE1OzIwMjYtMDMtMTE7IjA0OjM4OjU1ICI7MjgxOA=="/>
+        <attribute name="edited" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMzE5NjE1OzIwMjYtMDMtMTE7IjA0OjQ2OjMyICI7MTsyOTIw"/>
+        <attribute name="edited" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMzE5NjA3OzIwMjYtMDMtMTM7IjA4OjMyOjMwICI7MTsyOTIw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Escreva um n&#250;mero&quot;" newline="True"/>
+            <declare name="numero1" type="Real" array="False" size=""/>
+            <input variable="numero1"/>
+            <output expression="&quot;Escreva outro n&#250;mero&quot;" newline="True"/>
+            <declare name="numero2" type="Real" array="False" size=""/>
+            <input variable="numero2"/>
+            <output expression="&quot;Seu n&#250;mero &#233; igual &#225; &quot; &amp; numero1 + numero2" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
